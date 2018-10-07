@@ -1,5 +1,5 @@
 {
-  "name": "footbalkik",
+  "name": "chatapp",
   "version": "1.0.0",
   "description": "A chat application build with node. mongodb. express and socket.io",
   "main": "index.js",
